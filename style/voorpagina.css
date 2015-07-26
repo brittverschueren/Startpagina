@@ -1,11 +1,5 @@
 body{
-	width:80%;
-	margin:auto;
 	background-image:url(../images/background.png);
-}
-.kader{
-	text-align:center;
-	
 }
 input{
 	height:20px;
@@ -22,26 +16,6 @@ h1{
 	margin-bottom:5%;
 }
 
-.socialemedia{
-	float:left;
-	padding:2%;
-	
-}
-
-.fun{
-	float:right;	
-	padding:2%;
-}
-.winkels{
-	margin-top:5%;
-	float:left;
-	padding:2%;
-}
-.vanalles{
-	float:right;
-	margin-top:5%;
-	padding:2%;
-}
 .logo{
 	margin:0,9%;
 	opacity:0.75;
