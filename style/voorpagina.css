@@ -2,7 +2,7 @@ body{
 	background-image:url(../images/background.png);
 }
 input{
-	height:20px;
+	height:25px;
 	width:300px;
 	margin-right:1%;
 }
@@ -10,7 +10,7 @@ input{
 	margin-bottom:2%;
 	margin-top:5%;
 }
-h1{
+h1 div{
 	font-family: 'Cabin', sans-serif;
 	font-size:2em;
 	margin-bottom:5%;
