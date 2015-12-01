@@ -1,9 +1,7 @@
 body{
-<<<<<<< HEAD
-	background-image:url(../images/Kerstfoto.png);
-=======
+
 	background-image:url(../images/background.png);
->>>>>>> 16af2021df10d046811fe0b72decf5a5d6fc2aa8
+
 }
 input{
 	height:25px;
