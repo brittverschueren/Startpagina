@@ -1,8 +1,13 @@
 body{
+<<<<<<< HEAD
 
 	background-image:url(../images/background.png);
 
 }
+=======
+	background-image:url('../images/background.png');
+
+>>>>>>> 797d3b9b65a3e6fe25cbc790a7dff4975c78b388
 input{
 	height:25px;
 	width:300px;
